@@ -26,7 +26,6 @@ console.log(anotherName); // outputs Vijay
 let obj = {
     name: "Suman",
     age : "20"
-    
 }
 
 let obj1 = obj 
