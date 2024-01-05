@@ -39,7 +39,7 @@ const hello = () => "Hello"
 
 // () () // first () for function defination and second () for execution
 
-((name) => {console.log(`Hello ${name}`)})("Suman");
+((name) => console.log(`Hello ${name}`))("Suman");
 
 (function () {
     console.log(`"HI Sumna"`)
